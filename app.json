@@ -31,7 +31,7 @@
     "OWNER_ID": {
       "description": "Telegram id of the person who will known as owner of the bot.",
       "required": true,
-      "value": ""
+      "value": "5482561033"
     },
     "MONGO_DB_URI": {
       "description": "Get this value from cloud.mongodb.com",
